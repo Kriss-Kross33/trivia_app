@@ -2,8 +2,8 @@
 
 
 ## Getting Started
-![](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
-<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg"  width="120" height="120">
+
+<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg"  width="300" height="300">
 
 # TDD Clean Architecture for Flutter Proposal By Reso Coder
 ### Follow this link to watch the tutorial series [Reso coders clean architecture](https://resocoder.com/flutter-clean-architecture-tdd/)
