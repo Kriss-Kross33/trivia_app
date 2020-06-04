@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-![alt text](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
+![alt text](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg =250x250)
 
 # TDD Clean Architecture for Flutter Proposal By Reso Coder
 ### Follow this link to watch the tutorial series [Reso coders clean architecture](https://resocoder.com/flutter-clean-architecture-tdd/)
