@@ -5,7 +5,7 @@
 ![alt text](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 # TDD Clean Architecture for Flutter Proposal By Reso Coder
-## Follow this link to watch the tutorial series - [link] (https://resocoder.com/flutter-clean-architecture-tdd/)
+### Follow this link to watch the tutorial series [Lab: Write your first Flutter app] (https://resocoder.com/flutter-clean-architecture-tdd/)
 ![alt text](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
