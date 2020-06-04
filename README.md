@@ -11,4 +11,4 @@
 ![alt text](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
 ### Finished UI
-<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/09/app-ui.png?resize=576%2C1024&ssl=10"  width="200" height="500">
+<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/09/app-ui.png?resize=576%2C1024&ssl=10"  width="250" height="450">
